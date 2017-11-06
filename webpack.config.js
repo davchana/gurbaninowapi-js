@@ -5,7 +5,7 @@ module.exports = {
 	output: {
 		filename: "index.js",
 		path: __dirname,
-		library: "GurbaiNow",
+		library: "GurbaniNow",
 		libraryTarget: "umd",
 	},
 	module: {
