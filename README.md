@@ -1,5 +1,5 @@
-# khajana-js 💎
+# GurbaniNow API JS Wrapper
 
-Webpage Demo of khajana-js.
+Webpage Demo of gurbaninowapi-js
 
 ![Demo](./demo.png)
