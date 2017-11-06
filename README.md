@@ -1,6 +1,6 @@
-# khajana-js 💎
+# GurbaniNow API JS Wrapper
 
-A JavaScript wrapper for [Khajana](http://khajana.org/) REST [API](https://github.com/KhalisFoundation/KhajanaAPI)
+A JavaScript Wrapper for the [GurbaniNow API](https://github.com/GurbaniNow/gurbaninow-api)
 
 # Usage
 
@@ -9,6 +9,6 @@ So you can use it directly in a script tag, or you can `require` it.
 
 Refer to following demos to use it.
 
-## [node](https://github.com/bogas04/khajana-js/blob/node/index.js#L1)
+## [Node Demo](https://github.com/GurbaniNow/gurbaninowapi-js/blob/node/index.js#L1)
 
-## [web](https://github.com/bogas04/khajana-js/blob/gh-pages/index.js#L1)
+## [Web Demo](https://github.com/GurbaniNow/gurbaninowapi-js/blob/gh-pages/index.js#L1)

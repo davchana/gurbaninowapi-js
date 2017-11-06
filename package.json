@@ -1,31 +1,31 @@
 {
-  "name": "khajana",
-  "version": "1.0.2",
-  "description": "JavaScript API wrapper for Khajana REST API",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack -p"
-  },
-  "author": "bogas04",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bogas04/khajana-js"
-  },
-  "bugs": {
-    "url": "https://github.com/bogas04/khajana-js/issues"
-  },
-  "homepage": "https://bogas04.github.io/khajana-js",
-  "devDependencies": {
-    "babel-core": "^6.23.1",
-    "babel-loader": "^6.4.0",
-    "babel-preset-env": "^1.2.1",
-    "webpack": "^2.2.1"
-  },
-  "babel": {
-    "presets": [
-      "env"
-    ]
-  }
+	"name": "gurbaninow",
+	"version": "1.0.0",
+	"description": "A JavaScript Wrapper for the GurbaniNow API",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: No Test Specified\" && exit 1",
+		"build": "webpack -p"
+	},
+	"author": "gurbaninow",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GurbaniNow/gurbaninowapi-js"
+	},
+	"bugs": {
+		"url": "https://github.com/GurbaniNow/gurbaninowapi-js/issues"
+	},
+	"homepage": "https://github.com/GurbaniNow/gurbaninowapi-js",
+	"devDependencies": {
+		"babel-core": "^6.23.1",
+		"babel-loader": "^6.4.0",
+		"babel-preset-env": "^1.2.1",
+		"webpack": "^2.2.1"
+	},
+	"babel": {
+		"presets": [
+			"env"
+		]
+	}
 }
