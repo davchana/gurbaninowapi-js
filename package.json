@@ -1,16 +1,16 @@
 {
-  "name": "khajana-js-node-demo",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "bogas04",
-  "license": "MIT",
-  "dependencies": {
-    "chalk": "^1.1.3",
-    "khajana": "^0.0.5",
-    "node-fetch": "^1.6.3"
-  }
+	"name": "gurbaninow-js-node-demo",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: No Test Specified\" && exit 1"
+	},
+	"author": "sarabveer",
+	"license": "MIT",
+	"dependencies": {
+		"chalk": "^1.1.3",
+		"gurbaninow": "^1.0.0",
+		"node-fetch": "^1.6.3"
+	}
 }

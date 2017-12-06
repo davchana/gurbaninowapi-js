@@ -1,7 +1,7 @@
-# khajana-js 💎
+# GurbaniNow JS 💎
 
-NodeJS demo.
+NodeJS Demo
 
-![Demo Image](./demo.png)
-
-Note: OSX has poor unicode support for gurmukhi, please excuse the mistakes in the screenshot.
+```
+node index.js
+```
